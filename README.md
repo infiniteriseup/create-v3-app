@@ -59,4 +59,4 @@ For more information please refer to the [documentation](https://create-v3-app.v
 [npm-url]: https://www.npmjs.com/package/create-v3-app
 [npm-image]: https://img.shields.io/npm/v/create-v3-app?color=0b7285&logoColor=0b7285
 [contribute-url]: https://github.com/loicpennequin/create-v3-app
-[contribute-image]: https://img.shields.io/badge/PRs-welcome-green.svg
+[contribute-image]: https://img.shields.io/badge/PRs-welcome-green.svg 
