@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/loicpennequin/create-v3-app.git",
+    "url": "https://github.com/infiniteriseup/create-v3-app.git",
     "directory": "cli"
   },
   "engines": {
